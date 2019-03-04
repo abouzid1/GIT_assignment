@@ -1,4 +1,4 @@
-UserB makes a change to secondFile
+UserA makes a change to secondFile
 This is the initial contents
 of the second file that comprises
 our most excellent project.
